@@ -51,7 +51,7 @@
 
   ### Основание
 
-  |![Allen’s Landing](/img\2.jpg "Место, где был основан город")|
+  |![Allen’s Landing](https://upload.wikimedia.org/wikipedia/commons/a/a6/Allen%27s_Landing_Houston_bayou_view.jpg "Место, где был основан город")|
   |:--:| 
   |*Allen’s Landing — место, где был основан город*|
 
@@ -61,7 +61,7 @@
 
   ### XX век
 
-  |![Мэйн-Стрит](/img\3.jpg "Мэйн-Стрит в центре")|
+  |![Мэйн-Стрит](https://upload.wikimedia.org/wikipedia/commons/e/e6/Main_Street_looking_south_Houston_Texas_%281908%29.jpg "Мэйн-Стрит в центре")|
   |:--:| 
   |*Мэйн-Стрит в центре, 1908 год* |
 
@@ -76,7 +76,7 @@
   ## Физико-географическая характеристика
   ### Географическое положение и климат
 
-  |![Хьюстон со спутника](/img\4.jpg "Фотография Хьюстона со спутника Landsat 7")|
+  |![Хьюстон со спутника](https://upload.wikimedia.org/wikipedia/commons/a/a3/Large_Houston_Landsat.jpg "Фотография Хьюстона со спутника Landsat 7")|
   |:--:| 
   |*Хьюстон со спутника Landsat 7*|
 
@@ -99,7 +99,7 @@
 
   ### Флора и фауна
 
-  |![Парк Discovery](/img\5.jpg "Парк Discovery green в центре Хьюстона")|
+  |![Парк Discovery](https://im0-tub-ru.yandex.net/i?id=84947621f9c4ecd371fb4aae45c8566c&n=13&exp=1 "Парк Discovery green в центре Хьюстона")|
   |:--:| 
   |*Парк Discovery green в центре Хьюстона*|
 
@@ -138,7 +138,7 @@
   |49|Marathon Oil|438|
   |52|Spectra Energy|493|
 
-  |![Cудоходный канал](/img\6.jpg "Хьюстонский судоходный канал")|
+  |![Cудоходный канал](https://4.404content.com/1/49/A2/1815202006430385844/fullsize.jpg "Хьюстонский судоходный канал")|
   |:--:| 
   |*Хьюстонский судоходный канал*|
 
@@ -152,7 +152,7 @@
 
   В Хьюстоне находится более 5 тысяч энергетических компаний, связанных с ведением бизнеса в этомрегионе. В городе находятся штаб-квартиры множества энергетических и нефтяных компаний,входящих в список Fortune 500. Хьюстон является членом Всемирного партнёрства энергетических городов.
 
-  |![Офис компании](/img\7.jpg "Офис компании Chevron в Хьюстоне")|
+  |![Офис компании](https://im0-tub-ru.yandex.net/i?id=a4b165911fadae84c9d6d6d04f27d5f6&n=13&exp=1 "Офис компании Chevron в Хьюстоне")|
   |:--:| 
   |*Офис компании Chevron в Хьюстоне*|
 
@@ -162,7 +162,7 @@
 
   ### Авиакосмическая промышленность
 
-  |![Космический центр](/img\8.jpg "Космический центр им. Джонсона")|
+  |![Космический центр](https://yandex.ru/images/_crpd/1j00DF367/f7ff9efdzfI/9eUQKCo7TRZNmsWgA4wDiCUJ29kwTMpCOwaei-8M1bO_O_9eRpBMmZghVVtLzE_27Z8OEXCe1CwGRG_jnOcymPCm13rrKI2SW9_AJ5WMEs5iWlZWOgUWCfILAoHiw485t7i_W5RFXl8K8A-AiBFGoHAHVkkkT40hkIhxeRw-vMFxeoK_oTTJEsOVyn-DRgRTZcwb0nHCG8L7yovDLgQPOrY9O9qQhdkIwHFBhZQcTy98iVDDbk0I41KJOTaZdD-OOvDJfeGzCxgBXcp1xYXCFqDCHlR_hNlKdAqFhmwDjfr1fH0dXIaQCEr2TkNb0EPvc4BaSO3PA-9Vzbp8HnG2xzj4APMpNMvVy90I-ogHBRmnRxyYfAEbDPCPyQOvREjy_jO0Xd2J2gmKv8EN3RXDK71O0wDtgkJh2w-1cBB2d0m9NQ7yI7uDUM0fCvsJjEbeJQoU2_iMlAq3SoaH7MtN-bqydZ0ZzpIKA_jLylxZBCD0wF9BpEcDqRGFMjkXPHIIOPiBMaE1DBFMXAsxSgaG2CDAklqzC5mM8UjHh6dJR_j5NnRdUM0djUh_hM2T3QsrPEjahydASKnVj_07GHu2RTMyAvMvtQhVRhTMeMTOy17uwJMUPEFSTzCBT8xmiAU5P7NylB6GEI7HP41OW9lN4rBFWMPvzkmmmUE_8N4xMcB0-wH5JjBOnsEdhzlITAOepQxTVjzLUA33xYNMIsNKsLk1PVWXhRqOTzHNRJGbQ6b0ClrIJkbNrFkKefEcv7hAv3AO-68_gRjLWkfwgkdOGaCDXl33T9SAs0kDASOBS3C1dnyYVQTYAsp9jg_RXQnv801Tg-jOSSmTDri9WXAwxDjxRfdjPgfeiZMD-gBEBRbgSVNQ8IFUTXDPCQelCA06t_a221CI201DcwoK05LC4bOB1A7gwIOs1Y1zPdGxeM5x8QOxKfCO2IBXR_LLgwYaIkMZ3fiIlUJ4z03Krc "Космический центр им. Джонсона")|
   |:--:| 
   |*Космический центр им. Джонсона*|
 
@@ -198,7 +198,7 @@
   ||1850-2017 Переписи населения в 1790—2010 годах||
 
   
-  |![Этническая карта Хьюстона](/img\9.png "Этническая карта Хьюстона")|
+  |![Этническая карта Хьюстона](https://im0-tub-ru.yandex.net/i?id=4ccb619edd6c75b281f209ea030314d7&n=13&exp=1 "Этническая карта Хьюстона")|
   |:--:| 
   |*Этническая карта Хьюстона*|
 
@@ -214,7 +214,7 @@
 
   ## Средства массовой информации
 
-  |![Вещательный центр](/img\10.jpg "Вещательный центр, откуда вещают радиостанции KUHT и KUHF")|
+  |![Вещательный центр](https://upload.wikimedia.org/wikipedia/commons/a/aa/Melcher_Center_for_Public_Broadcasting.jpg "Вещательный центр, откуда вещают радиостанции KUHT и KUHF")|
   |:--:| 
   |*Вещательный центр, откуда вещают радиостанции KUHT и KUHF*|
 
